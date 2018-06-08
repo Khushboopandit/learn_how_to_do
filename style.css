@@ -1,0 +1,128 @@
+*{
+	margin:0;
+}
+body{
+	background-image: url('third.svg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+#main{
+	height: 100%;
+	width: 100%;
+	display:block;
+	text-align:center;
+}
+.theam{
+	font-size: 63px;
+    color: #fbf8f8;
+    font-family: monospace;
+    text-align: center;
+    margin-top: 101px;
+    font-weight: bold;
+}
+.short{
+	font-size: 26px;
+    color: #f9eaea;
+    font-family: monospace;
+    text-align: center;
+   
+    margin-bottom: 23px;
+    font-weight: bold;
+}
+.cir{
+	border: 1px solid white;
+    border-radius: 125px;
+}
+.cenbtn{
+	display:block;
+	text-align:center;
+}
+.btn{
+	font-size: 26px;
+    padding: 14px 184px;
+    background: #3d883dbd;
+    color: white;
+    font-weight: bold;
+    font-family: monospace;
+    border: none;
+    border-radius: 27px;
+}
+div.style-five {
+height: 75px;
+background: #fff url(image/cartoon.png) no-repeat scroll left;
+background-size: 80px 75px;
+margin-left: -40px;
+}
+hr.style-five
+{
+width: 95%;
+margin-top: -40px;
+border: 0;
+border-bottom: 1px dashed black;
+background: #70A8FF;
+}
+.pro{
+	border-radius: 50%;
+  behavior: url(PIE.htc);
+  width: 50px;
+  height: 50px;
+  padding: 8px;
+  background: #fff;
+  border: 2px solid #666;
+  color: #666;
+  text-align: center;
+  font: 32px Arial, sans-serif;
+  float: right;
+  margin-right: 5px;
+}
+.suma{
+	background-image: url('img/sanket.jpeg');
+ 	background-size: cover;
+  	background-repeat: no-repeat;
+}
+.khush{
+	background-image: url('img/khush.jpeg');
+  	background-size: cover;
+  	background-repeat: no-repeat;
+}
+.sanket{
+	background-image: url('img/suma.jpeg');
+  	background-size: cover;
+  	background-repeat: no-repeat;
+}
+#pic{
+	margin-top:302px;
+	margin-right: 23px;
+}
+.textbox{
+  
+  width:24%;
+  height: 137px;
+  padding: 8px;
+  text-align: center;
+  font: 32px Arial, sans-serif;
+  float: left;
+  margin-right: 10%;
+  background: #3e757bab;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  font-family: -webkit-pictograph;
+}
+.text{
+	padding-left: 31.4%;
+	margin-top: 6%;
+}
+.sks{
+	text-shadow: 1px 1px 2px #ff0000, 0 0 32px #e7f522, 0 0 7px #b8cc10;;
+	
+	font-size: 1.5em;
+    font-family: initial;
+}
+
+/* @media (max-width: 700px){
+	#main{
+		height: 100vh;
+	}
+} */
